@@ -63,7 +63,7 @@ const AboutSection = () => {
                         About Me
                     </h2>
                     <p className='text-base lg:text-lg'>
-                        I'm a front-end web developer specializing in JavaScript, React, Next.js, Redux, Strapi, HTML, CSS/SCSS, and Git.
+                        Im a front-end web developer specializing in JavaScript, React, Next.js, Redux, Strapi, HTML, CSS/SCSS, and Git.
                         With a focus on creating interactive and stylish websites, I help businesses stand out in the digital space
                         by crafting effective online interfaces to engage clients.
                         My passion lies in delivering exceptional user experiences and collaborating with teams to build innovative
